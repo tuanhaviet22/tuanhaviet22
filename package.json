@@ -1,15 +1,13 @@
 {
-  "name": "antfu",
+  "name": "tuanhaviet22",
   "version": "0.0.0",
-  "description": "Hi, I am Anthony Fu",
-  "bugs": "https://github.com/antfu/antfu",
+  "description": "Hi, I am Tuan H.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/antfu"
+    "url": "https://github.com/tuanhaviet22/tuanhaviet22"
   },
-  "funding": "https://github.com/sponsors/antfu",
   "license": "MIT",
-  "author": "antfu <anthonyfu117@hotmail.com>",
+  "author": "antfu <tuanhaviet22@gmail.com>",
   "main": "index.js",
   "bin": {
     "antfu": "./index.js"
