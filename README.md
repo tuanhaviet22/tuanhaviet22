@@ -11,7 +11,7 @@
 <p align="center">
   <samp>
     projects:
-    <a href="https://sportconnect.app">sportconnect.app</a> ·
-    <a href="https://linkairy.com">linkairy.com</a>
+     🚀 <a href="https://sportconnect.app">sportconnect.app</a><br/>
+    🔗 <a href="https://linkairy.com">linkairy.com</a>
   </samp>
 </p>
