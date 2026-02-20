@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <samp>
     <a href="https://tuanha.dev">me</a> .
     <a href="https://tuanha.dev/posts">blog</a> .
@@ -8,9 +8,10 @@
   </samp>
 </p>
 
-<p align="center">
+<p>
   <samp>
     projects:
+    <br/>
      🚀 <a href="https://sportconnect.app">sportconnect.app</a><br/>
     🔗 <a href="https://linkairy.com">linkairy.com</a>
   </samp>
