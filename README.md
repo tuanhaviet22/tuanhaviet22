@@ -12,7 +12,7 @@
   <samp>
     projects:
     <br/>
-     🚀 <a href="https://sportconnect.app">sportconnect.app</a><br/>
+     🚀 <a href="https://sportix.vn">sportix.vn</a><br/>
     🔗 <a href="https://linkairy.com">linkairy.com</a>
   </samp>
 </p>
